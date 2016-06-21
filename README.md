@@ -19,11 +19,11 @@ PURPOSE OF PROJECT:Just For Fun; with garbage code
 
 VERSION or DATE:The 18 th of June, 2016, 0602 Hrs IST
 
-HOW TO START THIS PROJECT: o.O
+HOW TO START THIS PROJECT: $ java -jar election.jar
 
 AUTHOR:Gaurab Banerjee <gbandyein@gmail.com>
 
-USER INSTRUCTIONS: :3
+USER INSTRUCTIONS: Enjoy...
 
 
 ======================================================
