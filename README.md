@@ -12,11 +12,17 @@ SPOILER ALERT 2 :: CONTAINS GARBAGE CODE TOO
 =======================================================
 
 
+
 PROJECT TITLE:Election  
+
 PURPOSE OF PROJECT:Just For Fun; with garbage code
+
 VERSION or DATE:The 18 th of June, 2016, 0602 Hrs IST
+
 HOW TO START THIS PROJECT: o.O
+
 AUTHOR:Gaurab Banerjee <gbandyein@gmail.com>
+
 USER INSTRUCTIONS: :3
 
 
